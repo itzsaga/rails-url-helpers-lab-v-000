@@ -33,4 +33,4 @@ group :development, :test do
   gem 'database_cleaner'
 end
 
-gem 'rake', '< 11.0'
+gem 'rake', '< 13.0'
